@@ -13,7 +13,7 @@ Android malwares are always a threat for the personal and professional data of u
 6)  Tried different classification models on the final dataframe and selected the one that came up with the optimum result. We got a very good classification report in XGBOOST with random searchCV.
 7)  Used SHAP representation for model interpretability.
 ## Result ##
-We byilt a classification model that predicts the malicious behaviour of android appls with an accuracy score of 89% and f1 scores of 0.84 and 0.92 for the benign and malware classes.
+We built a classification model that predicts the malicious behaviour of android appls with an accuracy score of 89% and f1 scores of 0.84 and 0.92 for the benign and malware classes.
 
 
 
