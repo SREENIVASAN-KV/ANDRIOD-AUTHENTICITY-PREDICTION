@@ -14,6 +14,13 @@ Android malwares are always a threat for the personal and professional data of u
 7)  Used SHAP representation for model interpretability.
 ## Result ##
 We built a classification model that predicts the malicious behaviour of android appls with an accuracy score of 89% and f1 scores of 0.84 and 0.92 for the benign and malware classes.
+## Challenges ##
+1) The data has 180+ columns, which made the feature engineering and feature selection difficult.
+2) Tackling the text data and making it usefull in the final modelling.
+## Future scopes ##
+1) Deep learning using transformers(BERT,RoBERT etc).
+2) Deploying the model on an android application.
+
 
 
 
